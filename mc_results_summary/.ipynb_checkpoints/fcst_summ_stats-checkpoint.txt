@@ -1,0 +1,91 @@
+Apple Forecast Statistics: 
+ count           1000.000000
+mean               7.040404
+std               17.326347
+min                0.013991
+25%                0.743743
+50%                2.128290
+75%                6.577357
+max              198.872582
+95% CI Lower       0.132860
+95% CI Upper      48.543533
+Name: 2520, dtype: float64 
+
+Amazon Forecast Statistics: 
+ count           1000.000000
+mean              35.861970
+std               48.260681
+min                0.331154
+25%               11.414458
+50%               21.529720
+75%               41.878784
+max              712.314490
+95% CI Lower       2.969224
+95% CI Upper     142.396225
+Name: 2520, dtype: float64 
+
+Bitcoin Forecast Statistics: 
+ count             1000.000000
+mean              1114.686027
+std               7389.451429
+min                  0.149887
+25%                 26.623618
+50%                101.444859
+75%                410.910538
+max             207319.169320
+95% CI Lower         1.636489
+95% CI Upper      7595.658253
+Name: 2520, dtype: float64 
+
+DJIA ETF Forecast Statistics: 
+ count           1000.000000
+mean               4.206840
+std                3.513846
+min                0.294490
+25%                2.060668
+50%                3.261010
+75%                5.158002
+max               32.632068
+95% CI Lower       0.842953
+95% CI Upper      12.756325
+Name: 2520, dtype: float64 
+
+MSFT Forecast Statistics: 
+ count           1000.000000
+mean              44.428864
+std               47.537925
+min                1.779939
+25%               16.738015
+50%               30.798971
+75%               55.487385
+max              550.276277
+95% CI Lower       4.182805
+95% CI Upper     155.135583
+Name: 2520, dtype: float64 
+
+QQQ Forecast Statistics: 
+ count           1000.000000
+mean              12.883396
+std               11.142027
+min                0.809357
+25%                6.026501
+50%                9.614445
+75%               16.046518
+max              106.471181
+95% CI Lower       2.273232
+95% CI Upper      40.662842
+Name: 2520, dtype: float64 
+
+SPY Forecast Statistics: 
+ count           1000.000000
+mean               5.124051
+std                3.926506
+min                0.513053
+25%                2.657236
+50%                4.151437
+75%                6.253948
+max               44.994294
+95% CI Lower       1.033730
+95% CI Upper      15.958334
+Name: 2520, dtype: float64 
+

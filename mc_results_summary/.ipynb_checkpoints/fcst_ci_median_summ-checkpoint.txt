@@ -1,0 +1,24 @@
+Apple Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in AAPL will be worth between $938.69 and $438707.25 in 10 years.
+The median expected value of a current $10000 investment in AAPL is $20614.6 in 10 years. 
+
+Amazon Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in AMZN will be worth between $36941.06 and $1780833.98 in 10 years.
+The median expected value of a current $10000 investment in AMZN is $217031.8 in 10 years. 
+
+Apple Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in AAPL will be worth between $1328.6 and $485435.33 in 10 years.
+The median expected value of a current $10000 investment in AAPL is $21282.9 in 10 years. 
+
+Amazon Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in AMZN will be worth between $29692.24 and $1423962.25 in 10 years.
+The median expected value of a current $10000 investment in AMZN is $215297.2 in 10 years. 
+
+Apple Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in AAPL will be worth between $1328.6 and $485435.33 in 10 years.
+The median expected value of a current $10000 investment in AAPL is $21282.9 in 10 years. 
+
+Amazon Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in AMZN will be worth between $29692.24 and $1423962.25 in 10 years.
+The median expected value of a current $10000 investment in AMZN is $215297.2 in 10 years. 
+

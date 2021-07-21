@@ -1,0 +1,28 @@
+Apple Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in AAPL will be worth between $1060.23 and $576546.61 in 10 years.
+The median expected value of a current $10000 investment in AAPL is $18989.91 in 10 years. 
+
+Amazon Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in AMZN will be worth between $33449.84 and $1632960.2 in 10 years.
+The median expected value of a current $10000 investment in AMZN is $220230.33 in 10 years. 
+
+Bitcoin Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in BTC will be worth between $14483.92 and $59781094.18 in 10 years.
+The median expected value of a current $10000 investment in BTC is $957388.44 in 10 years. 
+
+DJIA ETF Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in DIA will be worth between $7902.37 and $137357.43 in 10 years.
+The median expected value of a current $10000 investment in DIA is $34182.52 in 10 years. 
+
+Microsoft Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in MSFT will be worth between $50075.95 and $1990342.68 in 10 years.
+The median expected value of a current $10000 investment in MSFT is $300073.15 in 10 years. 
+
+QQQ Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in QQQ will be worth between $22444.6 and $450358.57 in 10 years.
+The median expected value of a current $10000 investment in QQQ is $104648.63 in 10 years. 
+
+SPY Forecast Summary:
+There is a 95% chance that an initial investment of $10000 in SPY will be worth between $10773.92 and $151481.5 in 10 years.
+The median expected value of a current $10000 investment in SPY is $40527.35 in 10 years. 
+
