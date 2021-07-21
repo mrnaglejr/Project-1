@@ -42,15 +42,33 @@ Downloaded BitCoin(BTC) historical prices using the CoinGeckoAPI and dowloaded t
 
 ##### BTC_Equity_Comparison.ipynb
 Imported CSV files into a combined dataframe.
-Calculated the daily returns and plot them.
+Calculated the individual daily returns of each investment and plot them.
+[Comparison_of_Daily_Returns](images/daily_returns_full.png)
+
+Calculated the cumulative daily returns of all the investments
+[Comparison_of_Cumulative_Returns](images/cumulative_returns_full.png)
+
 Assessed the volatility of BTC compared to the stocks and ETFs.
-Run the standard deviations of each investment and plot them.
+[Assessed_Volatility](images/box_plot_full.png)
+
+Run the standard deviations of each investment and plot them with hvplot drop downs
+[hvplot_stddev](images/vol_comp_widget_full.png)
 Plot the standard deviation of all of the investments and plot them in one graph.
-
+[hvplot_stddev_all](images/vol_comp_full.png)
 Compared the first 3000 days of each investment and compare the volatility.
+[daily_returns_first3000](images/daily_returns_first3000.png)
+[cumulative_returns_first3000](images/cumulative_returns_first3000.png)
 
-##### BTC_Equity_MC_Forecast
+Assess volatility across first 3000 trading days
+[box_plot_first3000](images/box_plot_first3000.png)
+Create the standard deviation visualization for each of investments for the first 3000 trading days
+[std_dev_first3000](images/vol_comp_widget_first3000.png)
+Create the standard deviation visualiztion for all of the investments for the first 3000 trading days
+[std_dev_first3000_all](images/vol_comp_first3000.png)
+
+##### BTC_Equity_MC_Forecast (need to run in python environment)
 Using the Alpaca API to import the prices of the all the investments to run Monte Carlo simulations
 Plotted the Cumulative Return for each portfolio.
 Summarized the Monte Carlo forecast results to determine what each investment maybe worth.
-test
+[Monte_Carlo_sim_results](images/fcst_summ_stats.png)
+[Monte_Carlo_results](images/fcst_ci_median_summ.png)
