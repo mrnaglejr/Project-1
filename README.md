@@ -56,16 +56,15 @@ We gathered data from the following source to support our analysis:
 - Requests Library
 - Pandas Library
 - Numpy Library
-- Yahoo Finance API through PyPi (No Key Needed)
-[YFinance](https://pypi.org/project/yahoo-finance/)
-- Json Library
+- [Yahoo Finance API](https://pypi.org/project/yahoo-finance/) (No Key Needed)
+- JSON Library
 - [CoinGeckoAPI](https://github.com/man-c/pycoingecko) (No Key Needed)
 - DateTime Library
 - Alpaca Trade API (Key Needed)
 - Monte Carlo Simulations (MCForecastTools, MCSimulation)
 - Path Library
 - HV Plot Library
-- Matplotlib PyPlot Library
+- Mathplotlib PyPlot Library
 - DotENV Variable
 
 ## **Analysis Notebooks**
