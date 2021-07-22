@@ -59,7 +59,7 @@ We gathered data from the following source to support our analysis:
 - Yahoo Finance API through PyPi (No Key Needed)
 [YFinance](https://pypi.org/project/yahoo-finance/)
 - Json Library
-- [CoinGeckoAPI](https://www.coingecko.com/en/api) (No Key Needed)
+- [CoinGeckoAPI](https://github.com/man-c/pycoingecko) (No Key Needed)
 - DateTime Library
 - Alpaca Trade API (Key Needed)
 - Monte Carlo Simulations (MCForecastTools, MCSimulation)
