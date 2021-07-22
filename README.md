@@ -189,3 +189,5 @@ Below are other considerations aside from the historical price performance and f
 - **Environmental Concerns**: Will recent concerns over BTC energy consumption cause investors to shy away, or open the door for more eco-conscious cryptos to take the stage?
 - **Nascency of Crypto Market**: BTC is the first mover and current leader, but will it remain on top in an increasingly competitive and evolving space?
 - **Risk Appetite & Time Horizon**: How comfortable are you with extreme volatility? Are you a long-term investor or a short-term investor?
+### Google Slide Presentation
+[Google_Slide_Presentation](https://docs.google.com/presentation/d/1P5vgdFbPZVfk6zzRnRl_2zxILjo6SZ9xfqpbjMTefEg/edit?usp=sharing)
